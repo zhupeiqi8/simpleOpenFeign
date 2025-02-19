@@ -1,4 +1,4 @@
-package com.example.simpleOpenFeign;
+package com.example.simpleOpenFeign.annotation;
 
 import java.lang.annotation.*;
 
